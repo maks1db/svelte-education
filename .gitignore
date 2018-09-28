@@ -1,0 +1,14 @@
+.idea
+.DS_Store
+.vscode
+node_modules/*
+vendor/*
+public/build/*
+public/index.html
+npm-debug.log
+bower_components/*
+composer.phar
+composer.lock
+public/config.php
+public/sitemaps/*
+public/node_modules
